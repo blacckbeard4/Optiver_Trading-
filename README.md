@@ -25,6 +25,7 @@ Forecast a stock’s **final auction price movement** using historical features 
 
  <p align="center">
   <img src="https://i.imgur.com/B1aVk13.png" width="500">
+  
 ---
 
 ## 🧱 Pipeline Overview
