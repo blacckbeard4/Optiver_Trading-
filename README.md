@@ -7,8 +7,9 @@ In this high-stakes prediction challenge, the goal is to forecast **auction pric
 This project uses a **GRU-based deep learning model** integrated with **Polars for lightning-fast data processing**, and fine-tuned using **Optuna**. The final solution is compatible with Kaggle’s **live prediction API**.
 
 ---
- <p align="center">
-  <img src="https://i.imgur.com/SuYWQ6e.png" width="500">
+<p align="center">
+  <img width="511" height="352" alt="image" src="https://github.com/user-attachments/assets/4bae71db-204f-48e1-bd21-0979137d331b" />
+</p>
 
 ## 🎯 Objective
 
@@ -24,7 +25,8 @@ Forecast a stock’s **final auction price movement** using historical features 
 ### 🎯 Target Distribution
 
  <p align="center">
-  <img src="https://i.imgur.com/B1aVk13.png" width="500">
+  <img width="751" height="301" alt="image" src="https://github.com/user-attachments/assets/2168ea77-4b6c-4e64-878b-54dc21982cd8" />
+
   
 ---
 
